@@ -13,6 +13,7 @@ I have not done any blogging in the past. I decided to look into what capabiliti
 
 - [GitHub Pages](https://pages.github.com/)
 - [Jekyll](https://jekyllrb.com)
+- [yaml](https://yaml.org/)
 
 ## Concepts being discusses/used
 
