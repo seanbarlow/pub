@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Setup of GitHub Pages for blogging!"
 tags: [GitHub Pages, jekyll]
 ---
