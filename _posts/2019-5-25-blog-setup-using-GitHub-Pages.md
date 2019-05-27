@@ -1,8 +1,31 @@
-## Setting up a blog on GitHub Pages and customizing the theme
+---
+layout: post
+title:  "Setup of GitHub Pages for blogging!"
+categories: [blog, development]
+tags: [GitHub Pages, jekyll]
+---
 
-I have not done any blogging in the past. I decided to look into what capabilities [GitHub](https://www.github.com) provides. It apperas [GitHub](https://www.github.com) quite a robust blogging platform. I have been goin gover the docs and different compoenents and have been very impressed.
+# Setting up a blog on GitHub Pages and customizing the theme
 
-I have already
+I have not done any blogging in the past. I decided to look into what capabilities [GitHub](https://www.github.com) provides. It appears that [GitHub](https://www.github.com) has quite a robust blogging platform. I have been going over the docs and different compoenents and have been very impressed.
+
+## Technologies being used
+
+- [GitHub Pages](https://pages.github.com/)
+- [Jekyll](https://jekyllrb.com)
+
+## Concepts being discusses/used
+
+- Jekyll Themes
+  - Customizing the styles
+  - Customizing the layout
+- Jekyll Pages
+  - creating pages
+- Jekyll Posts
+  - creating posts
+
+
+## I have already
 
 1. Setup a GitHub reporository for the blog
 2. Configured GitHub pages for the repository.
@@ -28,4 +51,3 @@ Basically, we can add any css we want under the import statement.
 To customize the html we are going to create a new file named default.html. The file should be located under /_Layouts/default.html.
 
 The next thing we are going to so is copy the html from the existing theme. The URL for the theme I was using is https://github.com/pages-themes/architect/blob/master/_layouts/default.html. You can replace architect in the URL with the theme you chose to find the existing html.
-
