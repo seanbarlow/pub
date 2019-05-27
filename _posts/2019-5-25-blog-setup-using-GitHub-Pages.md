@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: pub
 title:  "Setup of GitHub Pages for blogging!"
 tags: [GitHub Pages, jekyll]
 ---
