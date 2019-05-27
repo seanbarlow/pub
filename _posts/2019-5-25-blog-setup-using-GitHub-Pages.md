@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Setup of GitHub Pages for blogging!"
-categories: [blog, development]
 tags: [GitHub Pages, jekyll]
 ---
 
